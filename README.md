@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @vivekshitkar10
-- 👀 I’m interested in Anime
-
+A Python-based typing speed test application that measures typing accuracy and speed, providing real-time feedback and performance statistics.
